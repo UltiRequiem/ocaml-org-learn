@@ -1,2 +1,2 @@
 (executable
- (name helloworld))
+ (name hello_world))
